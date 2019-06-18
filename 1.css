@@ -1,0 +1,11 @@
+div{
+border-style:solid;
+border-color:white;
+padding:45px;
+width:600px;
+text-align:center;
+}
+body{
+margin-left:500px;
+background-color:#e3e3e3;
+}
